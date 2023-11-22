@@ -1,7 +1,5 @@
-altair
 pandas
 streamlit
 numpy
-StringIO
 requests
 json
