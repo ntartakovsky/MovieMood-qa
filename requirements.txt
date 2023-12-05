@@ -1,6 +1,3 @@
 altair
-numpy
 pandas
 streamlit
-requests
-json
